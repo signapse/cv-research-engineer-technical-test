@@ -2,8 +2,6 @@
 
 ## Welcome
 
-Thank you for your interest in joining Signapse. 
-
 This technical test asks you to build a simplified version of a core component from our research pipeline: a **single-step diffusion-based image enhancer**, inspired by the ELITE paper ([arXiv:2601.10200](https://arxiv.org/abs/2601.10200)). This component takes a degraded rendering (simulating output from a 3D Gaussian avatar) and produces a clean, detail-restored image in a single forward pass.
 
 **Time budget**: 4-6 hours. We respect your time — focus on demonstrating methodology and understanding rather than perfect results. A short training run on limited data is perfectly acceptable.
